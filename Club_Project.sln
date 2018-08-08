@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Club_Project", "Club_Project\Club_Project.csproj", "{39977A0A-6DAC-45F7-BC5A-EAD897892FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication3", "..\WindowsFormsApplication3\WindowsFormsApplication3\WindowsFormsApplication3.csproj", "{11980D80-EFF0-4A93-87EA-99389E56FF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39977A0A-6DAC-45F7-BC5A-EAD897892FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39977A0A-6DAC-45F7-BC5A-EAD897892FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39977A0A-6DAC-45F7-BC5A-EAD897892FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39977A0A-6DAC-45F7-BC5A-EAD897892FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11980D80-EFF0-4A93-87EA-99389E56FF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11980D80-EFF0-4A93-87EA-99389E56FF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11980D80-EFF0-4A93-87EA-99389E56FF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11980D80-EFF0-4A93-87EA-99389E56FF57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
